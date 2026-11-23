@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-23 19:54:59",
+  "source": "https://www.ziyuanzu.com",
+  "resources": [
+    {
+      "name": "å³äºé¡µé¢",
+      "link": "https://www.ziyuanzu.com/about",
+      "description": "èµæºç«æ¯æä¾å½±è§èµæºæ°æ®ééæ¥å£çå¹³å°ï¼æ¯æè¹æCMSãæµ·æ´CMSãé£é£CMSç­å½±è§ç³»ç»å¯¹æ¥ãèµæºç«æä¾JSON/XML/M3U8æ ¼å¼çAPIæ¥å£ï¼æ¹ä¾¿ç«é¿èªå¨ééçµå½±ãçµè§å§ãå¨æ¼«ãç»¼èºç­åå®¹ã",
+      "status": "未知",
+      "uptime": "-",
+      "resource_count": "-",
+      "health": {
+        "url": "https://www.ziyuanzu.com/about",
+        "status_code": 200,
+        "response_time_ms": 356.24,
+        "is_alive": true,
+        "error": null
+      }
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "alive": 1
+  }
+}
